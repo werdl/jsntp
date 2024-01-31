@@ -1,0 +1,25 @@
+{
+  "name": "jsntp",
+  "version": "0.1.0",
+  "description": "Get NTP server time easily, with round trip time factored in, in vanilla JS.",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/werdl/jsntp.git"
+  },
+  "keywords": [
+    "time",
+    "ntp",
+    "api",
+    "strftime"
+  ],
+  "author": "werdl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/werdl/jsntp/issues"
+  },
+  "homepage": "https://github.com/werdl/jsntp#readme"
+}
